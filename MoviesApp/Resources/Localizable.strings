@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  MoviesApp
+
+  Created by Honey Maheshwari on 31/01/19.
+  Copyright © 2019 Systango. All rights reserved.
+*/
+
+// Movies
+"noMovieMata" = "No movies to show";
+
+// Movie Detail
+"title" = "Title";
+"summary" = "Summary";
+"cast" = "Cast";
+"director" = "Director";
+"year" = "Year";
+"genre" = "Genre";

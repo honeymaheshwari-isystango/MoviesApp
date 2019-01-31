@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MoviesApp
 //
-//  Created by MacBook15 on 30/01/19.
+//  Created by Honey Maheshwari on 30/01/19.
 //  Copyright © 2019 Systango. All rights reserved.
 //
 
